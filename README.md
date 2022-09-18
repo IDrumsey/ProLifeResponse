@@ -85,11 +85,13 @@ If you are adding a video resource to an argument and it's a long video, include
 ### Illustrations we're looking to have drawn
 None as of rn
 
+### Illustration ideas
+None as of rn
+
 
 ## Recorded collaborators
 
 ---
-- 
 ---
 
 

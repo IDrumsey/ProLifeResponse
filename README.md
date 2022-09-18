@@ -71,9 +71,7 @@ If you know how to use GitHub pull requests, do that and we'll review and merge 
 
 If you don't know how to use GitHub PRs, see the contact section and email us your changes. If you want to be credited in the recorded collaborators section, then let us know the name you want to be listed in the email.
 
-Names must be appropriate.
-
-If you are adding a video resource to an argument and it's a long video, include a timestamp of where the argument is addressed.
+If you are adding a video resource to an argument and it's a long video, include a timestamp of where the argument is addressed (assuming the whole video doesn't cover the argument).
 
 
 

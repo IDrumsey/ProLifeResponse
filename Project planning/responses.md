@@ -15,6 +15,13 @@ Each of the following arguments can have multiple responses and multiple resourc
 <br>
 <br>
 
+## **Important disclaimer**
+If an argument doesn't have responses or resources written out yet, it does not mean there are no responses or resources out there for it. We just haven't got to it yet on this project.
+
+<br>
+<br>
+<br>
+
 
 ### Argument template
 #### Collaborators currently working on this:
@@ -49,12 +56,9 @@ resource links:
 <br>
 <br>
 
-## **Important disclaimer**
-If an argument doesn't have responses or resources written out yet, it does not mean there are no responses or resources. We just haven't got to it yet.
 
-<br>
-<br>
-<br>
+
+
 
 ### Arugment #1
 #### Collaborators currently working on this:

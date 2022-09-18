@@ -332,3 +332,30 @@ resource links:
 <br>
 <br>
 <br>
+
+
+
+
+
+
+
+
+### Arugment #11
+#### Collaborators currently working on this:
+---
+
+pro-choice argument:
+```
+You just want to control women's bodies.
+```
+
+pro-life responses:
+
+resource links:
+
+---
+
+
+<br>
+<br>
+<br>

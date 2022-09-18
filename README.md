@@ -50,7 +50,7 @@ Firstly thank you for being willing to help. We shouldn't wait on others to make
 - Website design
 - Drawing website illustrations - See our [illustrations section](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#illustrations)
 - Website development
-- Content writing (Writing out the arguments and rebuttals) - See our content guidelines section
+- Content writing (Writing out the arguments and rebuttals) - See our [content guidelines section](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#content-guidelines) and the [arguments and responses document](https://github.com/IDrumsey/ProLifeResponses/blob/main/Project%20planning/responses.md)
 - Pointing us to pro-life resources that we can include on the site.
   - Educational resources - More on the pro-life position
   - Crisis resources - Resources like maybe a call center that helps women coordinate visits to pregnancy centers or can help get other resources.

@@ -47,7 +47,7 @@ The secondary motivation for this project is that there seemed to be a need for 
 Firstly thank you for being willing to help. We shouldn't wait on others to make a difference.
 
 - Website design
-- Drawing website illustrations - See our illustrations section
+- Drawing website illustrations - See our [illustrations section](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#illustrations)
 - Website development
 - Content writing (Writing out the arguments and rebuttals) - See our content guidelines section
 - Pointing us to pro-life resources that we can include on the site.
@@ -66,17 +66,13 @@ Firstly thank you for being willing to help. We shouldn't wait on others to make
 
 ### Content guidelines
 
-When writing these out, try to use something like the following format
-```
-pro-choice argument: "..."
-pro-life rebuttal: "..."
-```
-
 If you know how to use GitHub pull requests, do that and we'll review and merge your changes. If you want to be credited in the recorded collaborators section, then add your name or username to the recorded collaborators section and include the changes in the PR.
 
 If you don't know how to use GitHub PRs, see the contact section and email us your changes. If you want to be credited in the recorded collaborators section, then let us know the name you want to be listed in the email.
 
 Names must be appropriate.
+
+If you are adding a video resource to an argument and it's a long video, include a timestamp of where the argument is addressed.
 
 
 

@@ -16,7 +16,7 @@ Each of the following arguments can have multiple responses and multiple resourc
 <br>
 
 ## **Important disclaimer**
-If an argument doesn't have responses or resources written out yet, it does not mean there are no responses or resources out there for it. We just haven't got to it yet on this project.
+If an argument doesn't have responses or resources written out yet, it does not mean there are no responses or resources out there for it. We just haven't got to it yet for this project.
 
 <br>
 <br>

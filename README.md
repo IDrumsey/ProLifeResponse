@@ -17,6 +17,7 @@ Project initialization date - 09/18/2022
 - [Illustrations](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#illustrations)
 - [Recorded collaborators](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#recorded-collaborators)
 - [Contact](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#navigation)
+- [Arguments and responses document](https://github.com/IDrumsey/ProLifeResponses/blob/main/Project%20planning/responses.md)
 
 
 <br>

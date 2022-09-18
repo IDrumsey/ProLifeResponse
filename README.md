@@ -1,7 +1,7 @@
 # ProLifeResponses
 This is a website that exists to answer the pro-choice arguments regarding abortion from the pro-life position.
 
-Do you want to be involved in this project? See our [collaboration section](https://github.com/IDrumsey/ProLifeResponse/edit/main/README.md#Collaboration)
+Do you want to be involved in this project? See our [collaboration section](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#collaboration)
 
 Project initialization date - 09/18/2022
 

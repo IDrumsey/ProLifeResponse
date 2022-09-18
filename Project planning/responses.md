@@ -16,7 +16,7 @@ Each of the following arguments can have multiple responses and multiple resourc
 <br>
 
 
-### Arugment template
+### Argument template
 #### Collaborators currently working on this:
 - Example collaborator name
 - Another collaborator name

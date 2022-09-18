@@ -60,7 +60,7 @@ resource links:
 
 
 
-### Arugment #1
+### Argument #1
 #### Collaborators currently working on this:
 ---
 
@@ -85,7 +85,7 @@ resource links:
 
 
 
-### Arugment #2
+### Argument #2
 #### Collaborators currently working on this:
 ---
 
@@ -112,7 +112,7 @@ resource links:
 
 
 
-### Arugment #3
+### Argument #3
 #### Collaborators currently working on this:
 ---
 
@@ -142,7 +142,7 @@ resource links:
 
 
 
-### Arugment #4
+### Argument #4
 #### Collaborators currently working on this:
 ---
 
@@ -172,7 +172,7 @@ resource links:
 
 
 
-### Arugment #5
+### Argument #5
 #### Collaborators currently working on this:
 ---
 
@@ -201,7 +201,7 @@ resource links:
 
 
 
-### Arugment #6
+### Argument #6
 #### Collaborators currently working on this:
 ---
 
@@ -229,7 +229,7 @@ resource links:
 
 
 
-### Arugment #7
+### Argument #7
 #### Collaborators currently working on this:
 ---
 
@@ -257,7 +257,7 @@ resource links:
 
 
 
-### Arugment #8
+### Argument #8
 #### Collaborators currently working on this:
 ---
 
@@ -284,7 +284,7 @@ resource links:
 
 
 
-### Arugment #9
+### Argument #9
 #### Collaborators currently working on this:
 ---
 
@@ -313,7 +313,7 @@ resource links:
 
 
 
-### Arugment #10
+### Argument #10
 #### Collaborators currently working on this:
 ---
 
@@ -340,7 +340,7 @@ resource links:
 
 
 
-### Arugment #11
+### Argument #11
 #### Collaborators currently working on this:
 ---
 

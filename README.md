@@ -5,8 +5,19 @@ Do you want to be involved in this project? See our [collaboration section](http
 
 Project initialization date - 09/18/2022
 
-
 *Currently in the planning stages of development*
+
+
+
+## Navigation
+- [Motivation](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#motivation-for-this-project)
+- [Collaboration](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#collaboration)
+  - [Areas you can help with](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#areas-you-can-help-with)
+  - [Content guidelines](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#content-guidelines)
+- [Illustrations](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#illustrations)
+- [Recorded collaborators](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#recorded-collaborators)
+- [Contact](https://github.com/IDrumsey/ProLifeResponses/blob/main/README.md#navigation)
+
 
 <br>
 <br>
@@ -80,5 +91,16 @@ Names must be appropriate.
 None as of rn
 
 
-# Recorded collaborators
+## Recorded collaborators
+
 ---
+- 
+---
+
+
+
+
+
+## Contact
+
+Email: proliferesponses@gmail.com

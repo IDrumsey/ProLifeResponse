@@ -73,7 +73,8 @@ pro-life responses:
 
 resource links:
 
-[Video resource 1](https://youtu.be/l49JFXW0Fxo?t=354)
+<!-- https://stackoverflow.com/a/4425223/17712310 -->
+<a href="https://youtu.be/l49JFXW0Fxo?t=354" target="_blank">Video resource 1</a>
 
 ---
 

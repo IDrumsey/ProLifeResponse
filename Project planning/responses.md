@@ -6,7 +6,6 @@ For each of the following arguments, 3 things can be done
 - Write out the argument if it can be written better. (I may be just listing these quickly and not taking the time to write them out well)
 - Write out a rebuttal to the argument.
 - Add resources related to the argument. e.g. videos that respond to the argument
-    - *For all resource links, be sure to configure to open in a new tab.*
 
 **You don't have to do all three for any of the arguments. In fact, you can just work on one if you wish.**
 
@@ -74,9 +73,7 @@ pro-life responses:
 
 resource links:
 
-<!-- https://stackoverflow.com/a/4425223/17712310 -->
-<a href="https://youtu.be/l49JFXW0Fxo?t=354" target="_blank">Video resource 1</a>
-
+[Video resource 1](https://youtu.be/l49JFXW0Fxo?t=354)
 ---
 
 

@@ -73,7 +73,7 @@ pro-life responses:
 
 resource links:
 
-[Video resource 1](https://youtu.be/l49JFXW0Fxo?t=354)
+- [Video resource 1](https://youtu.be/l49JFXW0Fxo?t=354)
 ---
 
 

@@ -6,6 +6,7 @@ For each of the following arguments, 3 things can be done
 - Write out the argument if it can be written better. (I may be just listing these quickly and not taking the time to write them out well)
 - Write out a rebuttal to the argument.
 - Add resources related to the argument. e.g. videos that respond to the argument
+    - *For all resource links, be sure to configure to open in a new tab.*
 
 **You don't have to do all three for any of the arguments. In fact, you can just work on one if you wish.**
 

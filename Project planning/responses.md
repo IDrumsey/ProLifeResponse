@@ -71,6 +71,12 @@ Only women get an opinion on abortion.
 
 pro-life responses:
 
+```
+You don't have to be affected by something to know it's wrong.
+
+Example: We know that slavery is wrong even if we aren't slaves ourselves.
+```
+
 resource links:
 
 - [Video resource 1](https://youtu.be/l49JFXW0Fxo?t=354)

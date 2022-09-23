@@ -114,7 +114,7 @@ If laws aren't based on morality, then they are based on the hedenistic motivati
 
 resource links:
 
-[Video resource 1](https://youtu.be/8QJ0BIXpD_k)
+- [Video resource 1](https://youtu.be/8QJ0BIXpD_k)
 
 ---
 

@@ -94,6 +94,7 @@ resource links:
 
 ### Argument #2
 #### Collaborators currently working on this:
+- IDrumsey
 ---
 
 pro-choice argument:
@@ -103,7 +104,17 @@ We shouldn't legislate morality.
 
 pro-life responses:
 
+```
+If laws aren't based on morality, what are they based on?
+
+Murder is illegal. Why? You can say that it's to preserve life, but then your just asserting that preserving life is a good thing. If a majority of people start thinking that murdering people is ok, should we make it legal? Careful, wouldn't want to legislate your morality ;)
+
+If laws aren't based on morality, then they are based on the hedenistic motivations of those in power.
+```
+
 resource links:
+
+[Video resource 1](https://youtu.be/8QJ0BIXpD_k)
 
 ---
 

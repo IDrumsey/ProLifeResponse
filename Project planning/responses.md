@@ -23,6 +23,28 @@ If an argument doesn't have responses or resources written out yet, it does not 
 <br>
 
 
+
+### arguments
+- This is the pro-choice argument.
+- Only women get an opinion on abortion.
+- We shouldn't legislate morality.
+- It's just a clump of cells.
+- Prolifers are just religious and we shouldn't base our law on theology.
+- It's a fetus, not a person.
+- If you don't want one, don't get one.
+- Abortions will still happen even if they're illegal.
+- It's a parasite.
+- The child will have a hard life
+- It's the woman's body.
+- You just want to control women's bodies.
+
+
+
+<br>
+<br>
+<br>
+
+
 ### Argument template
 #### Collaborators currently working on this:
 - Example collaborator name

@@ -163,6 +163,12 @@ It's just a clump of cells.
 
 pro-life responses:
 
+```
+We are all technically clumps of cells.
+
+The keyword is "just". This is making the argument behind the scenes that something is lacking in one clump of cells (the baby) and another clump of cells (an adult let's say). The thing that's assumed to be lacking is personhood. So now the argument becomes "It's not a person". See argument #5.
+```
+
 resource links:
 
 ---

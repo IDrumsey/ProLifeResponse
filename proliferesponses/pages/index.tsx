@@ -5,6 +5,10 @@ import { AppShell, Navbar, Header, createStyles, Burger, MediaQuery} from '@mant
 import { useState } from 'react'
 import { FaComments } from 'react-icons/fa'
 
+
+// pages
+import ArgumentsPage from './arguments'
+
 // from https://ui.mantine.dev/category/navbars
 
 const useStyles = createStyles((theme, _params, getRef) => {
@@ -139,7 +143,7 @@ const Home: NextPage = () => {
           main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0] }
         })}
       >
-
+        <ArgumentsPage></ArgumentsPage>
       </AppShell>
     </div>
   )

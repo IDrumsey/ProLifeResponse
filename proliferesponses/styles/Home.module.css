@@ -8,6 +8,13 @@
   align-items: center;
 }
 
+/* https://mantine.dev/core/app-shell/ */
+.layoutHeader {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
 .footer {
   display: flex;
   flex: 1;

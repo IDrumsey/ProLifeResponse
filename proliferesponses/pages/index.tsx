@@ -1,8 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import { AppShell, Navbar, Header, Aside, Footer, createStyles} from '@mantine/core'
+import { AppShell, Navbar, Header, createStyles, Burger, MediaQuery} from '@mantine/core'
 import { useState } from 'react'
 import { FaComments } from 'react-icons/fa'
 
@@ -99,6 +98,9 @@ const Home: NextPage = () => {
   ))
 
 
+  const [navOpened, setNavOpened] = useState(false)
+
+
   return (
     <div className={styles.container}>
       <Head>
@@ -111,14 +113,28 @@ const Home: NextPage = () => {
       {/* https://github.com/mantinedev/mantine/tree/master/src/mantine-demos/src/demos/core/AppShell */}
       <AppShell
         padding="md"
-        navbar={<Navbar width={{ base: 300}} height={'100%'} p="xs">
-          <Navbar.Section>
-            {links}
-          </Navbar.Section>
-        </Navbar>}
-        header={<Header height={60} p="xs">
-          <h2 style={{margin: 0, marginLeft: '25px'}}>Pro-life Responses</h2>
-        </Header>}
+        navbar={
+          <Navbar width={{ base: 300, sm: 500, lg: 275}} height={'100%'} hiddenBreakpoint="sm" hidden={!navOpened} p="xs">
+            <Navbar.Section>
+              {links}
+            </Navbar.Section>
+          </Navbar>
+        }
+        header={
+          <Header height={60} p="xs">
+            <div className={styles.layoutHeader}>
+              <h2 style={{margin: 0, marginLeft: '15px', color: "#66BBFF", display: 'inline-block'}}>Pro-life Responses</h2>
+              <MediaQuery largerThan="sm" styles={{display: 'none'}}>
+                <Burger
+                  opened={navOpened}
+                  size="sm"
+                  onClick={()=> setNavOpened(o => !o)}
+                  style={{marginLeft: 'auto', marginTop: '3px'}}
+                ></Burger>
+              </MediaQuery>
+            </div>
+          </Header>
+        }
         styles={(theme) => ({
           main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0] }
         })}

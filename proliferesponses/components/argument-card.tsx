@@ -2,7 +2,7 @@ import { Paper, Text } from '@mantine/core';
 import {FunctionComponent} from 'react'
 
 // https://bobbyhadz.com/blog/react-binding-element-implicitly-has-an-any-type
-type ArgumentCardProps = {
+export type ArgumentCardProps = {
     bgColor: string,
     content: string,
     fontColor: string,

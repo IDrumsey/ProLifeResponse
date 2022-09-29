@@ -1,17 +1,9 @@
 import ArgumentCard from '../components/argument-card'
 import DebateWrapper from '../components/debate-wrapper/debate-wrapper'
-import { useEffect } from 'react'
 
 
 
 export default function ArgumentsPage() {
-
-
-    useEffect(() => {
-
-        // check the argument cards
-
-    }, [])
 
 
     return (

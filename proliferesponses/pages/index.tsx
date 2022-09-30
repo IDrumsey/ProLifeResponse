@@ -127,7 +127,8 @@ const Home: NextPage = () => {
         header={
           <Header height={60} p="xs">
             <div className={styles.layoutHeader}>
-              <h2 style={{margin: 0, marginLeft: '15px', color: "#66BBFF", display: 'inline-block'}}>Pro-life Responses</h2>
+              {/* https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow */}
+              <h2 style={{margin: 0, marginLeft: '15px', color: "#e0e0e0", display: 'inline-block', textShadow: '0 5px 5px #000'}}>Pro-life Responses</h2>
               <MediaQuery largerThan="sm" styles={{display: 'none'}}>
                 <Burger
                   opened={navOpened}

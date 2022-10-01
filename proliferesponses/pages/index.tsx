@@ -117,8 +117,19 @@ const Home: NextPage = () => {
       {/* https://github.com/mantinedev/mantine/tree/master/src/mantine-demos/src/demos/core/AppShell */}
       <AppShell
         padding="md"
+        navbarOffsetBreakpoint='sm'
+        
+        // https://codesandbox.io/s/affectionate-firefly-hoodr4?file=/src/App.tsx
+        styles={(theme) => ({
+          main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0], transition: 'padding-left 500ms ease-in' }
+        })}
         navbar={
-          <Navbar width={{ base: 300, sm: 500, lg: 275}} height={'100%'} hiddenBreakpoint="sm" hidden={!navOpened} p="xs">
+          <Navbar width={{ base: navOpened ? '90%' : '0', sm: 250, lg: 250}} height={'100%'}
+            sx={{
+              overflow: 'hidden',
+              transition: 'width 500ms ease, min-width 500ms ease'
+            }}
+          >
             <Navbar.Section>
               {links}
             </Navbar.Section>
@@ -140,9 +151,6 @@ const Home: NextPage = () => {
             </div>
           </Header>
         }
-        styles={(theme) => ({
-          main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0] }
-        })}
       >
         <ArgumentsPage></ArgumentsPage>
       </AppShell>

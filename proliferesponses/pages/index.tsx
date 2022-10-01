@@ -121,7 +121,7 @@ const Home: NextPage = () => {
         
         // https://codesandbox.io/s/affectionate-firefly-hoodr4?file=/src/App.tsx
         styles={(theme) => ({
-          main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0], transition: 'padding-left 500ms ease-in' }
+          main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0] }
         })}
         navbar={
           <Navbar width={{ base: navOpened ? '90%' : '0', sm: 250, lg: 250}} height={'100%'}
